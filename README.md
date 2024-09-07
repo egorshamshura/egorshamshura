@@ -1,2 +1,2 @@
 ## Hi there 👋
-- 🌱 I’m currently learning cpp :)
+- 🌱 I’m alive:)
