@@ -1,2 +1,2 @@
 ## Hi there 👋
-- 🌱 I’m alive:)
+- 🌱 I’m alive :)
