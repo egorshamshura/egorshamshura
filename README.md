@@ -1,2 +1,2 @@
-## Hi there 👋
-- 🌱 I’m alive :)
+## Hi there!
+- I'm currently interested in compiler design and programming languages.
